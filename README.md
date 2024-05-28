@@ -25,7 +25,7 @@
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/lordethyed/ktjocr.git
+git clone https://github.com/sanjarbaai/ktjocr.git
 cd ktjocr
 ```
 2. Create a Virtual Environment
